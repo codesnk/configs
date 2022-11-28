@@ -33,7 +33,7 @@ alias dmg="docker images"
 #alias gostaticlinux="CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -a -tags netgo -ldflags '-w' -o staticapp *.go"
 #alias makelinux="CGO_ENABLED=1 GOARCH=amd64 GOOS=linux go build -a -tags netgo -ldflags '-w -extldflags \"-static\"'"
 
-# Zsh themes -----------------------------------------------
+# Zsh themes ----------------------------------------------- 
 ZSH_THEME="afowler"
 #ZSH_THEME="af-magic"
 #ZSH_THEME="awesomepanda"
